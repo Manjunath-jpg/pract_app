@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 go
 
 corona
@@ -10,8 +10,6 @@ of
 the 
 
 daat
-=======
 law of fire
 when did you this
 later of world
->>>>>>> dae27edbce59c27d4ab73a313902a2e08811c232
