@@ -10,6 +10,8 @@ which is best nami
 
 for job
 
+ one=1
+ two=2
 
 go
 
