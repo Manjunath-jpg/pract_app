@@ -4,7 +4,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>in.manjunath chowdary</groupId>
+  <groupId>in.manjunath_chowdary</groupId>
   <artifactId>my-web-app</artifactId>
   <version>3.1.8-SNAPSHOT</version>
 
@@ -30,7 +30,7 @@
   </dependencies>
 
   <build>
-<<<<<<< HEAD
+    
     <finalName>manjunath-web-app</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
